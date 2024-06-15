@@ -11,7 +11,7 @@
 
 # Project Description :- 
 * Introduction
-This project involves the detection of fake news using a dataset of real and fake news articles. The primary objective is to build a machine learning model that can accurately classify news articles as real or fake based on their content. This document outlines the various steps taken in the project, including data exploration, preprocessing, and model training.
+  * This project involves the detection of fake news using a dataset of real and fake news articles. The primary objective is to build a machine learning model that can accurately classify news articles as real or fake based on their content. This document outlines the various steps taken in the project, including data exploration, preprocessing, and model training.
 
 * Data Exploration and Analysis
 1. Dataset Overview:
@@ -60,5 +60,5 @@ This project involves the detection of fake news using a dataset of real and fak
    * Random Forest achieved an accuracy of 99.3%.
    * A bar chart was created to visualize and compare the accuracies of these models.
 * Conclusion
-The project successfully demonstrated the detection of fake news using various machine learning models. The models achieved high accuracy, with the Decision Tree model performing the best. This comprehensive approach, from data exploration to model evaluation, provides a robust framework for fake news detection.
+   * The project successfully demonstrated the detection of fake news using various machine learning models. The models achieved high accuracy, with the Decision Tree model performing the best. This comprehensive approach, from data exploration to model evaluation, provides a robust framework for fake news detection.
 
